@@ -31,7 +31,7 @@ The Python Password Generator is a simple and effective tool for generating stro
 
 1. **Run the Script**:
     ```bash
-    python password_generator_gui.py
+    python password_generator.py
     ```
 
 2. **Generate a Password**:
