@@ -9,5 +9,5 @@ A Python script to generate strong, secure passwords similar to those suggested 
 ## Installation
 Clone the repository and navigate into the project directory:
 ```bash
-git clone [https://github.com/your-username/password-generator.git](https://github.com/rishav21r/Python-Password-Generator.git)
+git clone https://github.com/rishav21r/Python-Password-Generator.git
 cd password-generator
