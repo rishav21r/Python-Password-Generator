@@ -20,7 +20,7 @@ The Python Password Generator is a simple and effective tool for generating stro
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/Python-Password-Generator.git
+    git clone https://github.com/rishav21r/Python-Password-Generator.git
     cd Python-Password-Generator
     ```
 
