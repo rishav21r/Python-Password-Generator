@@ -46,7 +46,7 @@ The Python Password Generator is a simple and effective tool for generating stro
 
 Here's how the application looks when running:
 
-![Application Screenshot](.\screenshot.png)
+![Application Screenshot](.\image\passgen.png)
 
 ## Contributing
 
