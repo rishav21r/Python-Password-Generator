@@ -46,7 +46,7 @@ The Python Password Generator is a simple and effective tool for generating stro
 
 Here's how the application looks when running:
 
-![Application Screenshot](screenshot.png)
+![Application Screenshot](./image/passgen.png)
 
 ## Contributing
 
@@ -58,5 +58,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, feel free to open an issue or contact me at [rohit.rishav@gmail.com](mailto:rohit.rishav@gmail.com).
 
